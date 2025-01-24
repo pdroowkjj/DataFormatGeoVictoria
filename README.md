@@ -1,5 +1,5 @@
 
-# 🖥️ Conversor de Dados GeoVictoria
+# 🖥️ Conversor de Dados para GeoVictoria
 
   [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 
